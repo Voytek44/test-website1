@@ -8,7 +8,13 @@
 
 #footer
 {
-	background-color:#EAEFF1;	
+	/*background-color:#EAEFF1;*/
+	background-color:#273d6f;
+	color: #fff;
+}
+
+#footer a{
+	color:  #fff;
 }
 
 .body_content
