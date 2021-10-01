@@ -1,0 +1,106 @@
+/* CSS Document */
+
+#banner
+{
+	margin:0;
+	padding:0;	
+}
+
+#footer
+{
+	background-color:#EAEFF1;	
+}
+
+.body_content
+{
+	background-color:#C5E8E8;	
+	padding-top:10px;
+}
+
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+
+.text
+{
+	flex:6 1 auto;
+} 
+
+.small-h2
+{
+	font-size:130%;
+}
+
+.white-card
+{
+	background-color:#ffffff;
+	padding:10px;
+}
+
+.box
+{
+  box-model: border-box;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  background-clip:padding-box;
+}
+
+.box2
+{
+  box-model: border-box;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 5px solid transparent;
+  background-clip:padding-box;
+}
+
+.navtight
+{
+	margin-bottom:0;
+	padding-bottom:0;	
+}
+
+.paneltight
+{
+	margin-top:5px;
+	margin-botton:5px;	
+	padding-top:0;
+	padding-bottom:0;
+}
+
+.topmargin
+{
+	padding-top:15px;
+	padding-bottom:15px;
+	margin-top:15px;
+	border-top:1px solid #000000;	
+}
+
+.morespace
+{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.blueline
+{
+	border-top:4px solid #374C92;	
+}
+
+.colouredbox1
+{
+	background-color:#B8C568;
+	background-image:url(../images/apply_long.png);
+	background-position:top left;
+	background-repeat: no-repeat;
+}
+
+.colouredbox2
+{
+	background-color:#FDEAAA;
+	background-image:url(../images/benefits_long.png);
+	background-position:top left;
+	background-repeat: no-repeat;
+}
