@@ -110,3 +110,15 @@
 	background-position:top left;
 	background-repeat: no-repeat;
 }
+
+.nav-other{
+	background-color: #273d6f;
+}
+
+.nav-other .navbar-nav a{
+	background:#000000;
+	color:#fff;
+}
+.nav-other .navbar-nav a:hover{
+	color: #000000;
+}
